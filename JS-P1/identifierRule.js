@@ -7,8 +7,7 @@ function wish(){
 	console.log("GM")
 }
 
-
-wish()
+<>wish()
 
 
 class Employee9{}
